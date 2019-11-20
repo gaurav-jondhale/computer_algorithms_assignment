@@ -1,0 +1,4 @@
+All the problems from this universe can be categorised into two categories and they are :
+1) Polynomial P
+2) Non polynomial NP
+done.
