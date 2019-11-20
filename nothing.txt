@@ -1,0 +1,7 @@
+The problems can also be classified by the time complexities
+there are many time complexities.
+few popular among them are
+1) O(n)
+2) O(n^2)
+3) O(log(n)).
+not done.
